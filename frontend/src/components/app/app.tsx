@@ -4,6 +4,7 @@ import { createContext, useMemo, useState } from 'react';
 import { About } from '../about';
 import { CardContainer } from '../card-container';
 import { themeOptions } from '../../utils/theme-options';
+import backgroundImage from '../../assets/itsc-team-pres-bg-done.png'
 
 export const ColorModeContext = createContext({
   toggleColorMode: () => {
@@ -40,7 +41,7 @@ export const App = () => {
             backgroundSize: 'cover',
             backgroundRepeat: 'repeat-y',
             backgroundPosition: 'center',
-            backgroundImage: `url('/itsc-team-pres-bg-done.png')`,
+            backgroundImage: `url(${backgroundImage})`,
           } }
         >
           <Header/>

@@ -1,7 +1,8 @@
 import React from 'react';
 import { MotionLogoProps } from './motion-logo.types';
-import { ButtonBase, CardMedia, useMediaQuery, useTheme } from '@mui/material';
+import { ButtonBase, CardMedia } from '@mui/material';
 import { motion } from 'framer-motion';
+import logo from '../../../assets/logo.svg'
 
 export const MotionLogo: React.FC<MotionLogoProps> = ({ scale, offset, logoHeight }) => {
   return (
@@ -20,7 +21,7 @@ export const MotionLogo: React.FC<MotionLogoProps> = ({ scale, offset, logoHeigh
       >
         <CardMedia
           component={ 'img' }
-          src={ '/logo.svg' }
+          src={ logo }
           alt={ 'Логотип' }
           height={ logoHeight }
         />
