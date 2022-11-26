@@ -1,54 +1,54 @@
 [
   {
-    "id": 1,
-    "img": "public/ryan.jpg",
+    "tg_id": 1,
+    "photo": "public/ryan.jpg",
     "name": "Ryan Gosling",
     "role": "God",
-    "speciality": "Actor",
+    "spec": "Actor",
     "course": "1",
     "color": "default",
-    "telegramUserName": "fagion"
+    "tg_name": "fagion"
   },
   {
-    "id": 2,
-    "img": "public/ryan2.jpg",
+    "tg_id": 2,
+    "photo": "public/ryan2.jpg",
     "name": "Ryan Gosling",
     "role": "God",
-    "speciality": "Lorem",
+    "spec": "Lorem",
     "course": "2",
     "color": "default",
-    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?"
+    "inf_about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?"
   },
   {
-    "id": 3,
-    "img": "public/ryan3.jpg",
+    "tg_id": 3,
+    "photo": "public/ryan3.jpg",
     "name": "Ryan Gosling",
     "role": "God",
-    "speciality": "Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor",
+    "spec": "Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor",
     "course": "3",
     "color": "red",
-    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?",
-    "telegramUserName": "fagion"
+    "inf_about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?",
+    "tg_name": "fagion"
   },
   {
     "id": 4,
-    "img": "public/ryan4.jpg",
+    "photo": "public/ryan4.jpg",
     "name": "Ryan Gosling",
     "role": "God",
-    "speciality": "",
+    "spec": "",
     "course": "4",
     "color": "green",
-    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?"
+    "inf_about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit tg_id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?"
   },
   {
-    "id": 5,
-    "img": "public/ryan5.jpg",
+    "tg_id": 5,
+    "photo": "public/ryan5.jpg",
     "name": "Ryan Gosling",
     "role": "God",
-    "speciality": "",
+    "spec": "",
     "course": "5",
     "color": "blue",
-    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?",
-    "telegramUserName": "fagion"
+    "inf_about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequatur earum harum ipsam iure labore libero non officiis, quae sed? Aliquid amet dignissimos doloribus ea esse fugit id illo ipsam iure libero maiores maxime natus, neque placeat quasi quo reprehenderit sapiente similique sit temporibus. Corporis deleniti distinctio esse iusto porro soluta unde. Ad adipisci amet assumenda cupiditate deserunt dignissimos, distinctio dolor doloremque ducimus eligendi eos eveniet expedita fuga, illo inventore libero quaerat quam quibusdam repellendus sapiente veritatis, voluptatem voluptatibus. Ab accusamus aut corporis cupiditate dolorem dolores, error id illum impedit, iste minima molestiae non nulla placeat, quam quod ratione repellendus sint ut veniam! Atque dolore enim iste, itaque iusto laboriosam laudantium odio qui repellendus saepe sapiente similique ut, vero. Accusantium ad aliquam asperiores, commodi consequuntur corporis dolorem, dolorum ea esse exercitationem nemo pariatur placeat provident, quaerat quasi reiciendis repudiandae sed totam vel velit. Animi doloremque dolores fugiat inventore iure numquam soluta suscipit! Autem dolor ducimus fuga ipsa obcaecati recusandae repellat! Doloribus, labore similique. Accusantium consequatur eum, id illo inventore nobis pariatur recusandae sapiente ullam voluptate. Autem debitis doloribus ipsam modi molestias quam quis, totam. Asperiores debitis dicta error, ex explicabo magni non sit. Eius ipsam porro quasi repellat repudiandae voluptate?",
+    "tg_name": "fagion"
   }
 ]
